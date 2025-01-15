@@ -5,7 +5,7 @@
 #set -e (Hər hansı bir əmrin səhv (non-zero exit code) qaytarması halında, skripti dərhal dayandırır)
 #set -x (Hər bir əmri icra etməzdən əvvəl onu terminalda göstərir)
 
-#Change MSIP IP address in docker-compose.yml
+#Change MISP IP address in docker-compose.yml
 
 set -e
 set -x
